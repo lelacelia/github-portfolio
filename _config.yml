@@ -1,6 +1,8 @@
 title: Linh Anh Le (Celia)
 logo: "/profile(1).jpg" 
 
+description: Hi, this is Linh Anh Le. You can call me Celia or Linh Anh. I am a data analyst with more than four years of work experience in the nonprofit sector. I have experience in regression analysis, VBA automation, and web scraping. 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
