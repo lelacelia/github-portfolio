@@ -16,7 +16,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Undergraduate Research
 
-As a double major in Quantitative Economics and Education, I was trained to be a mixed-method researcher. Below is the list of quantitative and qualitativeresearch projects I did in college using different methods.
+As a double major in Quantitative Economics and Education, I was trained to be a mixed-method researcher. Below is the list of quantitative and qualitative research projects I did in college using different methods.
 
 ### Quantitative Research
 #### <a href = "https://github.com/lelacelia/ECON303-income-inequal/blob/main/Senior%20Sem%20-%20CPS%20Welcoming%20School.pdf">Public School Crisis: Did Chicago Public Schools (CPS)’s Welcoming School Program Improve Enrollment?</a>
