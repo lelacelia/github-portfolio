@@ -19,7 +19,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 As a double major in Quantitative Economics and Education, I was trained to be a mixed-method researcher. Below is the list of quantitative and qualitative research projects I did in college using different methods.
 
 ### Quantitative Research
-#### <a href = "https://github.com/lelacelia/ECON303-income-inequal/blob/main/Senior%20Sem%20-%20CPS%20Welcoming%20School.pdf">Public School Crisis: Did Chicago Public Schools (CPS)’s Welcoming School Program Improve Enrollment?</a>
+#### <a href = "https://github.com/lelacelia/ECON380-CPS-Welcoming-School/blob/main/Senior%20Sem%20-%20CPS%20Welcoming%20School.pdf">Public School Crisis: Did Chicago Public Schools (CPS)’s Welcoming School Program Improve Enrollment?</a>
 _Fall 2019_
 
 Inspired by my summer internship at Chicago Public Schools (CPS)'s Department of STEM, I used regression to investigate how the Welcoming school program, a solution to the 2012-2013 massive school closure in Chicago Public Schools(CPS), affected the enrollment of the neighborhood public schools. Neighborhood public schools were identified using three few main criteria. Data of five years before and after the program implementation of those schools were collected and used in a Difference-in-Diffence model.
