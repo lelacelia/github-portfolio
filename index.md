@@ -16,30 +16,25 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Undergraduate Research
 
-As a double major in Quantitative Economics and Education, I was trained to be a mixed-method researcher. Below is the list of quantitative and qualitativeresearch projects I did in college using different techniques.
+As a double major in Quantitative Economics and Education, I was trained to be a mixed-method researcher. Below is the list of quantitative and qualitativeresearch projects I did in college using different methods.
 
 ### Quantitative Research
+#### Public School Crisis: Did Chicago Public Schools (CPS)’s Welcoming School Program Improve Enrollment?
+Inspired by my summer internship at Chicago Public Schools (CPS)'s Department of STEM, I used regression to investigate how the Welcoming school program, a solution to the 2012-2013 massive school closure in Chicago Public Schools(CPS), affected the enrollment of the neighborhood public schools. Neighborhood public schools were identified under a few main criteria. Data of five years before and after the program implementation of those schools were collected and used in a Difference-in-Diffence model.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Tools**: R, Ordinary Least Squares, Difference in Difference(DID), t-test
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<img src='/Quant1-Econometrics Project 1.png'/>
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+#### <a href = "https://github.com/lelacelia/honors-thesis-U5Mortality/blob/main/Honors%20Thesis%20-%20U5%20Child%20Mortality.pdf">Women’s Education and its Impacts of Under-five Child Mortality in Vietnam:</a>
+Using logistic regression on a binary dependent variable - the probability of experiencing child mortality - this research found that there is a statistically significant impact of a woman’s years of completed general education, the ethnicity of her household’s head, whether she lives in rural areas. Education matters; however, its impacts fade away right after primary school. At the same time, findings also show the importance of contraception usage, HIV knowledge, as well as wealth in lowering the exposure to under-5 offspring death.
+
+**Tools**: R, logistic regression models (logit), UNICEF's Multiple Indicator Cluster Survey (MICS) 2014 data
+
+<a href = "https://github.com/lelacelia/honors-thesis-U5Mortality/tree/main">View project respository</a>
+
+<img src='/Quant2-Honors Thesis.png'/>
 
 ##### Header 5
 
