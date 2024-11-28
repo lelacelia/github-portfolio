@@ -28,10 +28,10 @@ This paper was co-authored with Jackson Amodeo.
 
 **Tools**: R, Ordinary Least Squares, Difference in Difference(DID), t-test
 
-<img src='/Quant1-Econometrics Project 1.png'/>
+<img src='/Quant1-Senior Sem.png/>
 
 
-#### <a href = "https://github.com/lelacelia/honors-thesis-U5Mortality/blob/main/Honors%20Thesis%20-%20U5%20Child%20Mortality.pdf">Women’s Education and its Impacts of Under-five Child Mortality in Vietnam:</a>
+#### <a href = "https://github.com/lelacelia/honors-thesis-U5Mortality/blob/main/Honors%20Thesis%20-%20U5%20Child%20Mortality.pdf">Women’s Education and its Impacts of Under-five Child Mortality in Vietnam</a>
 _Spring 2020_
 
 Using logistic regression on a binary dependent variable - the probability of experiencing child mortality - this research found that there is a statistically significant impact of a woman’s years of completed general education, the ethnicity of her household’s head, whether she lives in rural areas. Education matters; however, its impacts fade away right after primary school. At the same time, findings also show the importance of contraception usage, HIV knowledge, as well as wealth in lowering the exposure to under-5 offspring death.
@@ -41,6 +41,18 @@ Using logistic regression on a binary dependent variable - the probability of ex
 <a href = "https://github.com/lelacelia/honors-thesis-U5Mortality/tree/main">View project respository</a>
 
 <img src='/Quant2-Honors Thesis.png'/>
+
+
+#### <a href = "https://github.com/lelacelia/ECON303-income-inequal/tree/main">Income Inequality in OECD countries during 2005-2015</a>
+_Fall 2019_
+
+This research examines factors impacting income inequality in OECD countries from 2005 to 2015 measured by SWIID Gini Index with a focus on on the percentage of adults with higher education and total FDI as a proxy for globalization
+
+**Tools**: STATA, Fixed Effect Models, 10-year panel data
+
+<a href = "https://github.com/lelacelia/ECON303-income-inequal">View project respository</a>
+
+<img src='/Quant 3 - Econometrics-Income Inequal.png'/>
 
 ##### Header 5
 
