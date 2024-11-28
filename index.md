@@ -24,7 +24,7 @@ _Fall 2019_
 
 Inspired by my summer internship at Chicago Public Schools (CPS)'s Department of STEM, I used regression to investigate how the Welcoming school program, a solution to the 2012-2013 massive school closure in Chicago Public Schools(CPS), affected the enrollment of the neighborhood public schools. Neighborhood public schools were identified using three few main criteria. Data of five years before and after the program implementation of those schools were collected and used in a Difference-in-Diffence model.
 
-This paper was co-authored with Jackson Amodeo
+This paper was co-authored with Jackson Amodeo.
 
 **Tools**: R, Ordinary Least Squares, Difference in Difference(DID), t-test
 
