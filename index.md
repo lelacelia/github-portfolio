@@ -5,17 +5,17 @@ Since not all work projects that I have done can be shared publicly, below are a
 ### [WAICU-member Alumni Employment LinkedIn Data Collection](https://www.wisconsinsprivatecolleges.org/waicu-alumni-employment-data/)
 _View the dashboard by clicking the link above._
 
-In order to showcase the contributions of Wisconsin private colleges and universities to workforce, I was asked to conduct a comprehensive LinkedIn research project. The whole project was conducted within about three months. I dedicated about 2-3 weeks to learn web scraping using R and then used the knowledge I gained to build an automated web scrapping tool in R. The data collected from the web scraping tool was then visualized in a PowerBI dashboard 
+To highlight the contributions of Wisconsin’s private colleges and universities to the workforce, I conducted an in-depth LinkedIn research project over the course of three months. I spent the first 2-3 weeks learning web scraping techniques using R, and then applied this knowledge to develop an automated web scraping tool. Once the data was collected, I visualized the results in a Power BI dashboard to effectively present the findings.
 
 ### [FAFSA Simplification Act and the Changes You Should Know (Presentation)](https://drive.google.com/file/d/1TlIsSyGL6JZ1zUQ3yJmWPlpCrEwJ0iws/view?usp=sharing)
 _View the presentation by clicking the link above._
 
-I presented at the State National Information Network 2022 my research on FAFSA Simplication Acts and how the changes may impact state need-based aid spending. 
+I presented my research on FAFSA Simplication Acts and how the changes may impact state need-based aid spending at the State National Information Network 2022 (SNIN). 
 
 ### [WAICU Graph of the Month](https://public.tableau.com/app/profile/waicu/vizzes)
 _View the full repository of past Graph of the Month by clicking the link above._
 
-I initiated this Graph of the Month project with a goal to educate the public on current issues with higher education as well sa the different values of a college degree to an individual and a society. Starting in 2022, each month, there has been a graph with an interesting peace of data featured on WAICU social media.
+I initiated this Graph of the Month project with a goal to educate the public on current issues with higher education as well sa the different values of a college degree to an individual and a society. Starting in 2022, there has been a graph with an interesting piece of data featured on WAICU social media every month.
 
 ## Online Self-studying Courses
 **MS PowerBI / MS Excel**
