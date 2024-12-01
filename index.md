@@ -2,10 +2,10 @@
 ## Work Projects
 Since not all work projects that I have done can be shared publicly, below are a few examples of my work projects that showcase my interests in data visualization and automation.
 
-### [WAICU-member Alumni Employment Data on LinkedIn](https://www.wisconsinsprivatecolleges.org/waicu-alumni-employment-data/)
+### [WAICU-member Alumni Employment - LinkedIn Data Collection](https://www.wisconsinsprivatecolleges.org/waicu-alumni-employment-data/)
 _View the dashboard by clicking the link above._
 
-In order to showcase the impacts of private colleges and universities to the state of Wisconsin, I was asked to conduct a comprehensive LinkedIn research project. The whole project was conducted within about three months. I dedicated about 2-3 weeks to learn web scraping using R and then used the knowledge I gained to build an automated web scrapping tool in R. The data collected from the web scraping tool was then visualized in a PowerBI dashboard 
+In order to showcase the contributions of Wisconsin private colleges and universities to workforce, I was asked to conduct a comprehensive LinkedIn research project. The whole project was conducted within about three months. I dedicated about 2-3 weeks to learn web scraping using R and then used the knowledge I gained to build an automated web scrapping tool in R. The data collected from the web scraping tool was then visualized in a PowerBI dashboard 
 
 ### [FAFSA Simplification Act and the Changes You Should Know (Presentation)](https://drive.google.com/file/d/1TlIsSyGL6JZ1zUQ3yJmWPlpCrEwJ0iws/view?usp=sharing)
 _View the presentation by clicking the link above._
