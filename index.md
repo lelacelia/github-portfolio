@@ -1,15 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # PORTFOLIO
 ## Work Projects
 Since not all work projects that I have done can be shared publicly, below are a few examples of my work projects that showcase my interests in data visualization and automation.
@@ -29,7 +17,18 @@ _View the full repository of past Graph of the Month by clicking the link above.
 
 I initiated this Graph of the Month project with a goal to educate the public on current issues with higher education as well sa the different values of a college degree to an individual and a society. Starting in 2022, each month, there has been a graph with an interesting peace of data featured on WAICU social media.
 
-
+## Online Self-studying Courses
+#### - MS PowerBI / MS Excel
+  - [Preparing Data for Analysis with Microsoft Excel](https://coursera.org/share/ead3a3a100e770970d45c29fe05c3190)
+  - [Harnessing the Power of Data with Power BI](https://coursera.org/share/d19325d1354e992027bd2279cf3b6248)
+  - [Extract, Transform and Load Data in Power BI](https://coursera.org/share/d3bd31949aad2775982b4ae6e862fdfc)
+  - [Data Modeling in Power BI](https://coursera.org/share/0b9fe5fdcad83f51e203e978888f891c)
+#### - R
+  - [Web Scraping in R](https://www.datacamp.com/statement-of-accomplishment/course/97cc8fe1f68914b4a3621d5eed1daac69cae061d?raw=1)
+#### - Python
+  - 100 Days of Code: The Complete Python Pro Bootcamp (Ongoing) 
+#### - NonSQL
+  - Introduction to Databases by UC Berkeley Extension (Ongoing)
 
 ## Undergraduate Research
 
@@ -95,84 +94,3 @@ _Spring 2019_
 From five formal interviews, approximately 15-20 minutes each, I examined how the K-12 Mathematics education affected the ways female college students see Mathematics as a subject and as a possible career path.
 
 **Methodology:** Formal Interviews with IRB Approval, Feminist Framework, Critical Pedagogy Theory
-
-
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
