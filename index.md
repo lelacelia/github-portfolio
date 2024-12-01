@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # PORTFOLIO
 ## Work Projects
-I am a higher education researcher and data analyst with more than four years of professional work experience. In addition to my passion in data visualization and automation, I am venturing into predictive modeling. Since not all work projects that I have done can be shared publicly, below are a few examples of my work that were considered breakthroughs.
+Since not all work projects that I have done can be shared publicly, below are a few examples of my work projects that showcase my interests in data visualization and automation.
 
 ### [WAICU-member Alumni Employment Data on LinkedIn](https://www.wisconsinsprivatecolleges.org/waicu-alumni-employment-data/)
 _View the dashboard by clicking the link above._
