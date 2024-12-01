@@ -29,6 +29,8 @@ _View the full repository of past Graph of the Month by clicking the link above.
 
 I initiated this Graph of the Month project with a goal to educate the public on current issues with higher education as well sa the different values of a college degree to an individual and a society. Starting in 2022, each month, there has been a graph with an interesting peace of data featured on WAICU social media.
 
+
+
 ## Undergraduate Research
 
 As a double major in Quantitative Economics and Education, I was trained to be a mixed-method researcher. Below is the list of quantitative and qualitative research projects I did in college using different methods.
